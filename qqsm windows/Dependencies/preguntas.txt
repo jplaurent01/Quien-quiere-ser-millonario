@@ -1,0 +1,16 @@
+¿Qué planeta del sistema solar es conocido como el "planeta rojo"?,Marte,Venus,Júpiter,Mercurio,A,Facil
+¿Cuál es la galaxia más grande del Grupo Local al que pertenece la Vía Láctea?,Andrómeda, La Gran Nube de Magallanes,El Triángulo,La Pequeña Nube de Magallanes,A,Intermedio
+¿Cuál de los siguientes cuerpos celestes no es considerado un planeta enano?,Plutón,Marte,Eris,Haumea,B,Facil
+¿Cuál es la teoría ampliamente aceptada sobre el origen del universo?,Teoría de la relatividad de Einstein,Teoría del Big Bang,Teoría de la evolución,Teoría de la gravedad de Newton,B,Facil
+¿Cuál es la estrella más brillante en el cielo nocturno?,Sirio,Canopus,Vega,Antares,A,Facil
+¿Qué tipo de estrella es nuestro Sol?,Enana blanca,Supergigante roja,Gigante azul,Secuencia principal,D,Facil
+¿Cuál es la distancia promedio entre la Tierra y el Sol?,150 millones de kilómetros,300 millones de kilómetros,500 millones de kilómetros,1 billón de kilómetros,A,Facil
+¿Cuál es la misión espacial de la NASA que llevó al primer hombre a la Luna?,Apolo 11,Géminis 6,Mercurio 7,Apolo 13,A,Dificil
+¿Cuál es el planeta más grande del sistema solar?,Júpiter,Saturno, Neptuno,Urano,A,Dificil
+¿Cuál de los siguientes planetas tiene anillos visibles desde la Tierra?,Júpiter,Saturno, Neptuno,Urano,B,Facil
+¿Cuál es el período de revolución de la Tierra alrededor del Sol?,24 horas,30 días,365 días,1 año luz,C,Intermedio
+¿Cuál es la estrella más cercana a la Tierra además del Sol?,Próxima Centauri, Alfa Centauri A,Sirio,Betelgeuse,A,Intermedio
+¿Cuál es el nombre del telescopio espacial lanzado por la NASA en 1990?,Kepler,Hubble,Spitzer,Chandra,B,Intermedio
+¿Cuál es el nombre de la primera mujer astronauta en viajar al espacio?, Sally Ride,Valentina Tereshkova,Mae Jemison,Eileen Collins,B,Dificil
+¿Cuál es el planeta más denso del sistema solar?,Mercurio,Venus,Tierra,Marte,C,Dificil
+¿Cuál es el planeta más pequeño del sistema solar?,Marte,Mercurio,Neptuno,Urano,B,Facil
