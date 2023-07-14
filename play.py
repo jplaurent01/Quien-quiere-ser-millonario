@@ -342,9 +342,6 @@ class Application(Toplevel):
         self.resize_image = self.image.resize((424, 60))
         self.pic = ImageTk.PhotoImage(self.resize_image)
 
-        #x, y = button.winfo_rootx(), button.winfo_rooty()
-        #print(str(x))
-        #print(str(y))
         if button == self.buttons[1]:
             self.label_B.config(image = self.pic, bg="#1B2732", highlightthickness = 0, bd = 0)
             self.label_B.image = self.pic
@@ -369,7 +366,7 @@ class Application(Toplevel):
             self.label_D.place(relx = 0.517, rely = 0.855)
             self.opt_D.config( bg="#81CE5F")
         else:
-            print("ninguno de las x y correcto")
+            pass
 
 
 
@@ -453,9 +450,6 @@ class Application(Toplevel):
         self.resize_image = self.image.resize((424, 60))
         self.pic = ImageTk.PhotoImage(self.resize_image)
 
-        #x, y = button.winfo_rootx(), button.winfo_rooty()
-        #print(str(x))
-        #print(str(y))
         if button == self.buttons[1]:
             self.label_B.config(image = self.pic, bg="#1B2732", highlightthickness = 0, bd = 0)
             self.label_B.image = self.pic
@@ -481,7 +475,7 @@ class Application(Toplevel):
             self.opt_D.configure(bg="#c95165")
 
         else:
-            print("Ninungna x y incorrecta")
+            pass
 
         res = messagebox.askquestion('Pregunta incorrecta', 'Pregunta incorrecta, ¿desea continuar?')
         if res == 'yes':

@@ -61,7 +61,6 @@ def show_data(root):
         with open(r'Dependencies\preguntas.txt', 'r') as file:
             fl = file.readlines()
             list_of_lists = [line for line in fl]
-            print(list_of_lists)
 
         if len(list_of_lists) == 0:
             var = ""
